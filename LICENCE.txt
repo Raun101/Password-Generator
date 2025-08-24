@@ -1,0 +1,13 @@
+Copyright © 2025 Raun101. All rights reserved.
+
+This software is provided free of charge for personal and non-commercial use.
+
+You may:
+- Use the application as-is
+- Share the original executable file with others
+
+You may not:
+- Modify, reverse-engineer, or redistribute the software in any altered form
+- Sell or bundle the software as part of any commercial product
+
+By using this software, you agree to these terms.
