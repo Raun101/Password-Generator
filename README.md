@@ -22,8 +22,17 @@ A sleek, secure, and stylish desktop app for generating strong passwords with ea
 - `pass_gen.ico` — custom icon used in the app
 - `README.txt` — this file
 
+⚠️ Antivirus & SmartScreen Notice
+Some antivirus programs or Windows SmartScreen may flag this app as suspicious because it is packaged as a standalone .exe using PyInstaller. This is a false positive — the app contains no malicious code and is safe to use.
+If you're concerned, you can:
+- Scan the file using VirusTotal
+- Review the source code included in this repository
+- Run the app from within the extracted folder to reduce AV triggers
+This behavior is common for small, unsigned apps. A signed version may be provided in future releases.
+
 📣 Support the Creator:
 If you find this tool helpful, consider buying me a coffee ☕  
 https://buymeacoffee.com/smdqr
 
 © 2025 Raun101. All rights reserved.
+
