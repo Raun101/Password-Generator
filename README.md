@@ -34,6 +34,4 @@ This behavior is common for small, unsigned apps. A signed version may be provid
 If you find this tool helpful, consider buying me a coffee ☕  
 https://buymeacoffee.com/raundev
 
-© 2025 Raun101. All rights reserved.
-
-
+© 2025 Raun | raundev All rights reserved.
