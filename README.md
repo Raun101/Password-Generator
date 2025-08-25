@@ -1,4 +1,4 @@
-Password Generator — by Raun101
+Password Generator — by Raun
 ======================================
 
 A sleek, secure, and stylish desktop app for generating strong passwords with ease.
@@ -32,7 +32,8 @@ This behavior is common for small, unsigned apps. A signed version may be provid
 
 📣 Support the Creator:
 If you find this tool helpful, consider buying me a coffee ☕  
-https://buymeacoffee.com/smdqr
+https://buymeacoffee.com/raundev
 
 © 2025 Raun101. All rights reserved.
+
 
